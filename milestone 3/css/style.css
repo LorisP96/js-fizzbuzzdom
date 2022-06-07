@@ -32,3 +32,15 @@ h1 {
     justify-content: center;
     align-items: center;
 }
+
+.fizz {
+    background-color: #0bd6a1;
+}
+
+.buzz {
+    background-color: #ffd166;
+}
+
+.fizzbuzz {
+    background-color: #f0466f;
+}

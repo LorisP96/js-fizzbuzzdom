@@ -32,9 +32,3 @@ h1 {
     justify-content: center;
     align-items: center;
 }
-.box.even {
-    background-color: lightcoral;
-}
-.box.odd {
-    background-color: lightgreen;
-}
