@@ -1,4 +1,4 @@
-const numCont = document.querySelector('.number-container');
+const numCont = document.querySelector('.numbers-container');
 
 for(let i = 1; i <= 100; i++) {
 
@@ -18,7 +18,7 @@ for(let i = 1; i <= 100; i++) {
         console.log(newBox)
     }
 
-    numCont.innerHTML += newBox
+    numCont.innerHTML += newBox;
 }
 
 
